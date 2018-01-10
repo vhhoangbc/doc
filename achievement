@@ -1,0 +1,45 @@
+====================
+
+Situation/Task:
+
+•⋅Performance problems found by customer were really hard to troubleshoot and
+there were no clear mapping between their system performance with our product
+performance.
+
+•⋅The team had no idea about the limitation/expectation of the product on a
+specific configuration.
+
+•⋅Optimization level is also unclear for the team.
+
+====================
+
+Solution:
+
+•⋅I set up minimum/maximum/common (simpler) configuration in our system.
+
+•⋅I defined KPIs set for our product.
+
+•⋅We built static models to predict theoretical/practical expectation/limitation
+of our system.
+
+•⋅We built mapping systems between our KPIs with our common customer KPIs.
+
+•⋅I set up regression tests for verifying our models and continuous delivery
+
+====================
+
+Result:
+
+•⋅Performance problems were found much earlier.
+
+•⋅Customer performance issues were much easier to troubleshoot.
+
+• Increased mutual understanding between custermer and the team & management when
+discussing about KPI.
+
+•⋅Discovered many optimization problems not only in our product but also in customer
+system.
+
+•⋅Release had much higher confidence.
+
+
